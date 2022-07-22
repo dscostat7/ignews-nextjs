@@ -21,7 +21,7 @@
 
 ## 🚀 Project
 
-The project for study ReactJS at the instituition Rocketseat.
+The project for study NextJS and ReactJS at the instituition Rocketseat.
 
 ## 🔧 Tecnologias
 
